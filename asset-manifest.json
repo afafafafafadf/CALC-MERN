@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CALC-MERN/static/css/main.3c98f6a8.css",
+    "main.js": "/CALC-MERN/static/js/main.e46afdce.js",
+    "static/js/787.a174f9e5.chunk.js": "/CALC-MERN/static/js/787.a174f9e5.chunk.js",
+    "static/media/logo.svg": "/CALC-MERN/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CALC-MERN/index.html",
+    "main.3c98f6a8.css.map": "/CALC-MERN/static/css/main.3c98f6a8.css.map",
+    "main.e46afdce.js.map": "/CALC-MERN/static/js/main.e46afdce.js.map",
+    "787.a174f9e5.chunk.js.map": "/CALC-MERN/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c98f6a8.css",
+    "static/js/main.e46afdce.js"
+  ]
+}
